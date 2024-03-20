@@ -1,4 +1,4 @@
-# Licenciatura en Tecnología - Fundamentos de Programación
+# Fundamentos de Programación
 
 <img src="figs/lictec_small.png" alt="drawing" width="300" style = "text-align: center"/>
 
