@@ -2,16 +2,12 @@
 
 <img src="figs/lictec_small.png" alt="drawing" width="300" style = "text-align: center"/>
 
-## Semestre 2023-1
+## Semestre 2024-2
 
 ![alt text](figs/bg.png)
 
 ## Profesor
 Dr. Ulises Olivares Pinto
-
-####  Profesor Invitado
- Lic. Walter André Rosales Reyes
-
 
 ## Objetivo
 Dotar al estudiante de habilidades básicas de programación y capacidad de abstracción lógica para la solución de problemas utilizando el lenguaje de programación C++ y Python.
