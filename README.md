@@ -1,4 +1,4 @@
-# Licenciatura en Tecnología - Computación I
+# Licenciatura en Tecnología - Fundamentos de Programación
 
 <img src="figs/lictec_small.png" alt="drawing" width="300" style = "text-align: center"/>
 
@@ -56,17 +56,14 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 
 # Prácticas
 
-## **IMPORTANTE**: ¡Ya estás las calificaciones finales, entra en el enlace de calificaciones para concerla!.
+|Práctica|Temas|Recursos|
+|--|--|--|
+|1.Repository|<ol><li>Git</li><li>GitHub</li><li>MarkDown</li></ol>|<ul><li>[Presentación](practicas/1_repository/RepositoryPresentacion.pdf)</li><li>[Práctica](practicas/1_repository)</li> <li>[Sintaxis Markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) </li></ul>|
+|3.Calculadora|<ol><li>Lenguaje C++</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li>[Práctica](practicas/3_Calculadora)</li></ul>|
+|4.Arreglos|<ol><li>Arreglos</li><li>Funciones</li></ol>|<ul><li>[Práctica](practicas/4_Arreglos)</li></ul>|
+|5.GaussJordan|<ol><li>Matrices</li><li>Templates</li><li>Funciones (paso de argumentos)</li></ol>|<ul><li>[Práctica](practicas/5_GaussJordan)</li></ul>|
+|6.Puntos y tansformaciones|<ol><li>Clases en C++</li><li>Archivos _.h_</li></ol>|<ul><li>[Práctica](practicas/6_Puntos)</li></ul>|
+|7.Carga Eléctrica|<ol><li>Programación orientada a objetos</li><li>Constructor y destructor en C++</li></ol>|<ul><li>[Práctica](practicas/7_CargaElectrica)</li><li>[Presentación](practicas/7_CargaElectrica/CargaElectricaPresentacion.pdf)</li></ul>|
 
-**Revisiones:** Puedes revisar los resultados y las calificaciones de tus prácticas en [el siguiente enlace](https://github.com/ulises1229/2023-I-CompI/tree/Grades).
 
-|Práctica|Temas|Recursos|Fecha de entrega (antes de las 21:00 hrs)|
-|--|--|--|--|
-|1.Repository|<ol><li>Git</li><li>GitHub</li><li>MarkDown</li></ol>|<ul><li>[Presentación](practicas/1_repository/RepositoryPresentacion.pdf)</li><li>[Práctica](practicas/1_repository)</li> <li>[Sintaxis Markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) </li></ul>|21/09/20|
-|3.Calculadora|<ol><li>Lenguaje C++</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li>[Práctica](practicas/3_Calculadora)</li></ul>|28/09/2021|
-|4.Arreglos|<ol><li>Arreglos</li><li>Funciones</li></ol>|<ul><li>[Práctica](practicas/4_Arreglos)</li></ul>|05/10/2022|
-|5.GaussJordan|<ol><li>Matrices</li><li>Templates</li><li>Funciones (paso de argumentos)</li></ol>|<ul><li>[Práctica](practicas/5_GaussJordan)</li></ul>|12/10/2022|
-|6.Puntos y tansformaciones|<ol><li>Clases en C++</li><li>Archivos _.h_</li></ol>|<ul><li>[Práctica](practicas/6_Puntos)</li></ul>|13/11/2021|
-|7.Carga Eléctrica|<ol><li>Programación orientada a objetos</li><li>Constructor y destructor en C++</li></ol>|<ul><li>[Práctica](practicas/7_CargaElectrica)</li><li>[Presentación](practicas/7_CargaElectrica/CargaElectricaPresentacion.pdf)</li></ul>|16/11/2021|
-
-#### Última modificación: 9 de noviembre de 2022
+#### Última modificación: 20 de marzo de 2024
