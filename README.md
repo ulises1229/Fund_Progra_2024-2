@@ -1,13 +1,13 @@
-# Fundamentos de Programación
+# Fundamentos de Programación (2024-2)
 
-<img src="figs/lictec_small.png" alt="drawing" width="300" style = "text-align: center"/>
 
-## Semestre 2024-2
+________________________
+
 
 ![alt text](figs/bg.png)
-
+________________________
 ## Profesor
-Dr. Ulises Olivares Pinto
+> Dr. Ulises Olivares Pinto
 
 ## Objetivo
 Dotar al estudiante de habilidades básicas de programación y capacidad de abstracción lógica para la solución de problemas utilizando el lenguaje de programación C++ y Python.
